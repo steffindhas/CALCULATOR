@@ -1,2 +1,31 @@
 # CALCULATOR
-A stylish and responsive calculator built using HTML, CSS, and JavaScript. Features basic arithmetic operations (+, −, ×, ÷), percentage calculation, delete (DEL), all-clear (AC), and decimal input. Designed with a modern neumorphic UI for a clean and user-friendly experience. Ideal for practicing DOM manipulation and UI design skills.
+# 💻 Neumorphic Calculator
+
+A stylish and fully functional calculator built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations and includes features like delete, all-clear, decimal input, and percentage. The calculator is designed with a modern **neumorphic UI**, giving it a clean and intuitive appearance.
+
+---
+
+## ✨ Features
+
+- Basic operations: `+`, `-`, `*`, `/`
+- Special functions: `DEL`, `AC`, `%`, `.`
+- Real-time input display
+- Responsive layout
+- Modern neumorphism-based UI
+- Error handling for invalid expressions
+
+---
+
+## 📸 Screenshot
+
+![Calculator UI](CAL.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – structure
+- **CSS3** – neumorphic design styling
+- **JavaScript** – calculator logic and event handling
+
+---
